@@ -1,0 +1,19 @@
+1/ Bài tập lớn
+	Database: NoSQL or SQL
+	Hibernate Framework: JPA or Hibernate Native
+	Distributed: Socket or RMI
+	
+2/ Thường kỳ 2: 
+	Database: NoSQL
+	Hibernate Framework: JPA or Hibernate Native 
+	Distributed: Socket
+	
+3/ Kiểm tra tuần 10
+	Database: SQL
+	Hibernate Framework: JPA or Hibernate Native 
+	Distributed: RMI
+	
+4/ Thi cuối kỳ:
+	Database: NoSQL
+	Hibernate Framework: JPA or Hibernate Native 
+	Distributed: Socket or RMI
